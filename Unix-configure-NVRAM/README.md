@@ -1,7 +1,7 @@
 # Configure NVRAM based on Unix system
 
 # Overview
-This project demonstrates how to configure NVRAM.
+- This project demonstrates how to configure NVRAM.
 
 # Problem
 - IDPROM invalid 
@@ -22,13 +22,13 @@ Steps:
 6. The workstation able to boot up as normal startup
 
 # Commands Used
-ok boot -a
-ok boot -r
-ok banner
-ok reset-all
+- ok boot -a
+- ok boot -r
+- ok banner
+- ok reset-all
 
 # Result
-The workstation successfully to boot up as normal startup
+- The workstation successfully to boot up as normal startup
 
 # Notes
-This method should only be used for authorized system recovery.
+- This method should only be used for authorized system recovery.
