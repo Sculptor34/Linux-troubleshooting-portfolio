@@ -7,4 +7,4 @@ This repository contains a collection of real-world Linux troubleshooting scenar
 The goal of this portfolio is to showcase practical problem-solving skills, command-line usage, and understanding of Linux operating systems in a support environment.
 
 # Tools & Technologies  
-Linux and Unix (RHEL-based systems / Sunblade 150 / SPARCStation)  
+Linux and Unix (RHEL-based systems / Sunblade 150 / SPARCStation / Ultra)  
