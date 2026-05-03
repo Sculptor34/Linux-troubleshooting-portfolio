@@ -17,15 +17,14 @@ Steps:
 1. Change the NVRAM hardware as suspected the hardware faulty
 2. power on the workstation and press stop + a
 3. Configure NVRAM based on MAC address generate
-4. Write command banner to make sure not displays IDPROM invalid
-5. Last steps write command reset-all
-6. The workstation able to boot up as normal startup
+4. Write command reset to make sure not displays IDPROM invalid
+5. The workstation able to boot up as normal startup
 
 # Commands Used
+- ok set-defaults
 - ok boot -a
 - ok boot -r
-- ok banner
-- ok reset-all
+- ok reset
 
 # Result
 - The workstation successfully to boot up as normal startup
