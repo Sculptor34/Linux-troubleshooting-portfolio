@@ -1,4 +1,4 @@
-# Configure HDD based on Unix system
+# Setups Environment based on Unix system
 
 # Overview
 - This project demonstrates how to setup environment.
