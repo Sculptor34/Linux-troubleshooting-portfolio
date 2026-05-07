@@ -25,7 +25,6 @@ Steps:
 # Commands Used
 - ok snoop -d eri0
 - ok boot -r
-- ok reboot 
 
 # Result
 - The workstation successfully to boot up as normal startup
