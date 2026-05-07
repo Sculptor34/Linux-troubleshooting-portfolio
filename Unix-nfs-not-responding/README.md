@@ -17,9 +17,10 @@
 Steps:
 1. power on the workstation and press stop + a
 2. Write command boot -s to enter single mode
-3. Enter command snoop -d eri0
-4. Last steps boot -r
-5. The workstation able to boot up as normal startup
+3. Enter command snoop -d eri0 (It filter the IP and look the IP itself)
+4. Press stop + A after 1-4 hours. (It depends how many IP in the network)
+5. Last steps boot -r
+6. The workstation able to boot up as normal startup (If the issue persists, need to assign new IP)
 
 # Commands Used
 - ok snoop -d eri0
