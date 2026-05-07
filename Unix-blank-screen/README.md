@@ -22,7 +22,7 @@ Steps:
 
 # Commands Used
 - ok boot -s
-- ok reboot 
+- ok boot 
 
 # Result
 - The workstation successfully to boot up as normal startup
