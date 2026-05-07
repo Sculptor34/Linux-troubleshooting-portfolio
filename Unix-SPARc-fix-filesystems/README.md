@@ -21,7 +21,7 @@ Steps:
 # Commands Used
 - boot -s
 - fsck -y
-- reboot
+- boot
 
 # Result
 - The workstation successfully to boot up as normal startup
