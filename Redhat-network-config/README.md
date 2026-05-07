@@ -15,13 +15,14 @@
 Steps:
 1. Change the network card
 2. Make some changes on network path
-3. The network is restored
+3. Reboot the systems
+4. The network is restored
 5. The hardisk able to boot up as linux environment
 
 # Commands Used
 - su
 - mv
-- reboot
+- boot
 
 # Result
 - The workstation successfully to boot up as normal startup
