@@ -22,7 +22,7 @@ Steps:
 # Commands Used
 - su
 - vi
-- reboot
+- boot
 
 # Result
 - The workstation successfully to boot up as normal startup
